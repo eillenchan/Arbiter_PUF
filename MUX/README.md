@@ -124,7 +124,7 @@ With the final 2:1 sizing:
 | Rising-edge delay | **39.29 ps** |
 | Falling-edge delay | **37.99 ps** |
 
-## 6. Transistor-Sizing Comparison
+## 5. Transistor-Sizing Comparison
 
 Three configurations were tested under the same nominal conditions.
 
