@@ -18,7 +18,8 @@ The complete APUF has not yet been integrated or evaluated.
 
 ## 2. How the MUX Works
 
-!(images/MUX.png)
+![MUX](images/MUX.png)
+
 A 2:1 MUX selects one of two data inputs using a select signal, **S**.
 
 | Select S | Output vout follows |
